@@ -1,0 +1,17 @@
+{
+  "production_TOKEN": "token",
+  "development_TOKEN": "token",
+
+  "BOT_PREFIX": "!",
+  "DEVS": [
+    "373965085283975171"
+  ],
+  "SUPPORT_SERVER": "https://discord.gg/DeAHsPN",
+  "WEBSITE_URL": "https://soon.com",
+  "INVITE_URL": "https://discordapp.com/oauth2/authorize?client_id=514131162470285314&permissions=8&scope=bot",
+  "LEVEL_MESSAGE": "{user} is now level {level}!",
+
+  "SUGGESTIONS_CHANNEL_ID": "769182574979055637",
+
+  "socketToken": "socketToken"
+}

@@ -1,0 +1,28 @@
+{
+    "production": {
+        "database": "velocity",
+        "username": "root",
+        "password": "password",
+        "options": {
+            "host": "localhost",
+            "port": "3306",
+            "dialect": "mysql",
+            "define": {
+                "freezeTableName": true
+            }
+        }
+    },
+    "development": {
+        "database": "velocity",
+        "username": "root",
+        "password": "password",
+        "options": {
+            "host": "127.0.0.1",
+            "port": "3306",
+            "dialect": "mysql",
+            "define": {
+                "freezeTableName": true
+            }
+        }
+    }
+}
